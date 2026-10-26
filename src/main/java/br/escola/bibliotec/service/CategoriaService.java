@@ -18,4 +18,9 @@ public class CategoriaService {
     public List<Categoria> listarTodas() {
         return categoriaRepository.findAllByOrderByNomeAsc();
     }
+
+    public Categoria salvar(Categoria categoria) {
+        return categoriaRepository.save(categoria);
+    }
+
 }
