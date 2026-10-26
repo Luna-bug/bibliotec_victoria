@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.escola</groupId>
-    <artifactId>bibliotec</artifactId>
+    <artifactId>bibliotec_victoria</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>bibliotec_aulas</name>
     <description>bibliotec_aulas</description>
